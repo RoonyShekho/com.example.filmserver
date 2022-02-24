@@ -1,1 +1,1 @@
-web: java -jar build/libs/kotlin-api.jar --server.port=$PORT
+web: build//install/com.example.filmserver/bin/com.example.filmserver
