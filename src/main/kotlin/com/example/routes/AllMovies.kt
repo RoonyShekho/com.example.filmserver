@@ -14,7 +14,7 @@ fun Route.getAllMovies(){
     val movieRepository :MovieRepository by inject()
 
 
-    get("/film"){
+    get("/films"){
         try {
             val page = call.request.queryParameters["page"]?.toInt()?: 1
 

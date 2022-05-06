@@ -138,7 +138,6 @@ class MovieRepositoryImp:MovieRepository {
 
         if(page in 1..4){
             nextPage = nextPage?.plus(1)
-            prevPage = prevPage?.minus(1)
         }
 
         if(page in 2..5){
