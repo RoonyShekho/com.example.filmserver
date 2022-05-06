@@ -13,6 +13,7 @@ fun Route.getAllMovies(){
 
     val movieRepository :MovieRepository by inject()
 
+
     get("/film"){
         try {
             val page = call.request.queryParameters["page"]?.toInt()?: 1
@@ -39,7 +40,5 @@ fun Route.getAllMovies(){
                 status = HttpStatusCode.NotFound
             )
         }
-
-
     }
 }
