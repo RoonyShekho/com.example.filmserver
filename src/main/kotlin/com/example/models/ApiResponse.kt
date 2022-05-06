@@ -9,6 +9,5 @@ data class ApiResponse (
     val prevPage:Int? = null,
     val nextPage:Int? = null,
     val movies:List<Movie> = emptyList(),
-   val  lastUpdated:Long? = null
-
-    )
+    val  lastUpdated:Long? = null
+)

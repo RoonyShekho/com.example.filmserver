@@ -1,1 +1,1 @@
-web: build//install/com.example.filmserver/bin/com.example.filmserver
+web: build/install/com.example.filmserver/bin/com.example.filmserver

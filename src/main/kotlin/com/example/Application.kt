@@ -10,7 +10,6 @@ fun main(args: Array<String>): Unit =
 fun Application.module() {
     configureKoin()
     configureRouting()
-    configureSerialization()
     configureMonitoring()
     configureDefaultHeader()
     configureStatusPages()
