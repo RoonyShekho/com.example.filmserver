@@ -9,7 +9,7 @@ fun Application.configureStatusPages(){
     install(StatusPages){
         status(HttpStatusCode.NotFound){
             call.respond(
-                message = it.description,
+                message = "Roony not found",
                 status = HttpStatusCode.NotFound
             )
         }
