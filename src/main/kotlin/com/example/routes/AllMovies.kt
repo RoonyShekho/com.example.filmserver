@@ -15,8 +15,6 @@ fun Route.getAllMovies(){
 
 
 
-
-
     get("/movies"){
         try {
             val page = call.request.queryParameters["page"]?.toInt()?: 1

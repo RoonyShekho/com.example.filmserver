@@ -20,7 +20,7 @@ class MovieRepositoryImp:MovieRepository {
             Movie(
                 1,
                 "The Sting",
-                "/images/the_sting.jpeg",
+                "/images/the_sting",
                 "Two grifters team up to pull off the ultimate con.\n",
                 7.6
             ),
@@ -28,7 +28,7 @@ class MovieRepositoryImp:MovieRepository {
             Movie(
                 2,
                 "Pulp Fiction",
-                "/images/pulp_fiction.jpeg",
+                "/images/pulp_fiction",
                 "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
                 9.0
             )
@@ -61,7 +61,7 @@ class MovieRepositoryImp:MovieRepository {
             Movie(
                 5,
                 "Clockwork Orange",
-                "/images/a_clockwork_orange.jpeg",
+                "/images/a_clockwork_orange",
                 "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.\n",
                 9.4
             ),
@@ -69,7 +69,7 @@ class MovieRepositoryImp:MovieRepository {
             Movie(
                 6,
                 "Vertigo",
-                "/images/vertigo.jpeg",
+                "/images/vertigo",
                 "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
                 9.0
             )
@@ -111,7 +111,7 @@ class MovieRepositoryImp:MovieRepository {
             Movie(
                 10,
                 "A Space Odyssey",
-                "/images/a_space_odyssey.jpeg",
+                "/images/a_space_odyssey",
                 "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomputer.",
                 10.0
             )
