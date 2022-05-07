@@ -12,5 +12,6 @@ fun Application.module() {
     configureRouting()
     configureMonitoring()
     configureDefaultHeader()
+    configureSerialization()
     configureStatusPages()
 }
