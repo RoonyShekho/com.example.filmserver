@@ -115,7 +115,6 @@ class MovieRepositoryImp:MovieRepository {
                 "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomputer.",
                 10.0
             )
-
         )
 
 
