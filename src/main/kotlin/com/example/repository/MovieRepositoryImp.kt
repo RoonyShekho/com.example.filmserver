@@ -136,7 +136,7 @@ class MovieRepositoryImp:MovieRepository {
         var prevPage:Int? = page
         var nextPage:Int? = page
 
-        if(page in 1..4){
+        if(page in 2..4){
             nextPage = nextPage?.plus(1)
         }
 
