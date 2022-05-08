@@ -8,5 +8,5 @@ data class Movie(
     val title:String,
     val image:String,
     val plot:String,
-    val rating:Double,
+    val rating:Float,
 )
