@@ -52,7 +52,6 @@ class MovieRepositoryImp:MovieRepository {
                 "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
                 3.5
             )
-
         )
 
 
