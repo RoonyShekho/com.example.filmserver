@@ -22,15 +22,15 @@ class MovieRepositoryImp:MovieRepository {
                 "The Sting",
                 "/images/the_sting.jpeg",
                 "Two grifters team up to pull off the ultimate con.\n",
-                4.15
+                4.0
             ),
 
             Movie(
                 2,
                 "Pulp Fiction",
-                "/images/pulp_fiction.jpeg",
+                "/images/pulp_fiction.png",
                 "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-                4.45
+                4.5
             )
         )
 
@@ -42,7 +42,7 @@ class MovieRepositoryImp:MovieRepository {
                 "Cry Macho",
                 "/images/cry_macho.jpeg",
                 "A one-time rodeo star and washed-up horse breeder takes a job to bring a man's young son home and away from his alcoholic mom. On their journey, the horseman finds redemption through teaching the boy what it means to be a good man.",
-                2.85
+                3.0
             ),
 
             Movie(
@@ -50,7 +50,7 @@ class MovieRepositoryImp:MovieRepository {
                 "The Tragedy of Macbeth",
                 "/images/the_tragedy_of_macbeth.jpeg",
                 "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
-                3.55
+                3.5
             )
 
         )
@@ -63,7 +63,7 @@ class MovieRepositoryImp:MovieRepository {
                 "A Clockwork Orange",
                 "/images/a_clockwork_orange.jpeg",
                 "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.\n",
-                4.15
+                4.0
             ),
 
             Movie(
@@ -71,7 +71,7 @@ class MovieRepositoryImp:MovieRepository {
                 "Vertigo",
                 "/images/vertigo.jpeg",
                 "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
-                4.15
+                4.0
             )
 
         )
@@ -84,7 +84,7 @@ class MovieRepositoryImp:MovieRepository {
                 "Maurice",
                 "/images/maurice.jpeg",
                 "After his lover rejects him, a young man trapped by the oppressiveness of Edwardian society tries to come to terms with and accept his sexuality.\n",
-                3.85
+                4.0
             ),
 
             Movie(
@@ -92,7 +92,7 @@ class MovieRepositoryImp:MovieRepository {
                 "The Deer Hunter",
                 "/images/the_deer_hunter.jpeg",
                 "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
-                4.05
+                4.0
             )
 
         )
@@ -113,7 +113,7 @@ class MovieRepositoryImp:MovieRepository {
                 "2001: A Space Odyssey",
                 "/images/a_space_odyssey.jpeg",
                 "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomputer.",
-                4.15
+                4.0
             )
         )
 
